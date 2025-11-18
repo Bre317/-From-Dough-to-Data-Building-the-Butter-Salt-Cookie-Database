@@ -6,11 +6,11 @@ The Butter & Salt Database Capstone Project is a real-world database system crea
 
 ## 2. What’s Included in This Project
 ### SQL Folder
-Contains all SQL scripts used to build and analyze the database.
-Database creation scripts – Creates the Butter & Salt database environment.
-Table creation & normalization scripts – Defines all 3NF-normalized tables (customers, orders, cookies, ingredients, etc.).
-Data import scripts – SQL INSERT queries used to populate each table with mock data.
-Business insight queries – Analytical SQL queries that pull meaningful insights (e.g., sales trends, repeat customers, revenue patterns).
+- Contains all SQL scripts used to build and analyze the database.
+- Database creation scripts – Creates the Butter & Salt database environment.
+- Table creation & normalization scripts – Defines all 3NF-normalized tables (customers, orders, cookies, ingredients, etc.).
+- Data import scripts – SQL INSERT queries used to populate each table with mock data.
+- Business insight queries – Analytical SQL queries that pull meaningful insights (e.g., sales trends, repeat customers, revenue patterns).
 
 ### CSV Folder
 Includes all mock data files used to populate the database:
