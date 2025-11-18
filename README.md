@@ -32,10 +32,19 @@ Stores output files created by running analytical queries:
 - These demonstrate how the database answers real business questions.
 
 ## 3. Overview of the Database
-- The database has 7 tables  
-- It stores cookies, customers, orders, order items, and more  
-- Tables are connected using primary keys and foreign keys  
-- It allows reporting on sales, trends, and customer patterns  
+The Butter & Salt database is a fully normalized relational database designed to support the operations of a real cookie business using simulated data. It organizes core business information—customers, orders, cookies, ingredients, and sales activity—into structured tables that follow Third Normal Form (3NF) to reduce redundancy and improve data integrity.
+The database allows the business to track customer behavior, analyze sales patterns, and support operational decisions through well-designed SQL queries. It demonstrates how a small product-based business can transform raw data into actionable insights through a properly structured database system.
+## Key Components of the Database
+- Customer Management – Stores customer information, contact details, and order history.
+- Order Processing – Tracks each order, order items, quantities, pricing, and order status.
+- Product & Recipe Data – Organizes cookie types, ingredients, production information, and related details.
+- Sales & Performance Tracking – Enables analysis of monthly revenue, best-selling cookies, repeat customers, and other business metrics.
+- Inventory & Ingredient Usage (if included) – Allows estimation of ingredient demand and production planning.
+## Design Highlights
+- Tables are normalized to 3NF for efficient and consistent data storage.
+- Primary and foreign keys clearly define relationships between entities.
+- The schema supports realistic business workflows for a bakery or cottage-food company.
+-Analytical queries demonstrate how the database can answer real operational questions.
 
 ## 4. How to Use This Project
 1. Open MySQL Workbench.
