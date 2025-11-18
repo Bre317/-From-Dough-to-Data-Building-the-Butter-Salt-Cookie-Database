@@ -14,22 +14,22 @@ The Butter & Salt Database Capstone Project is a real-world database system crea
 
 ### CSV Folder
 Includes all mock data files used to populate the database:
-CSV files for each table – Contains simulated data for customers, orders, cookies, ingredients, inventory, and other business entities.
-These files allow the database to be populated quickly without manual entry.
+- CSV files for each table – Contains simulated data for customers, orders, cookies, ingredients, inventory, and other business entities.
+- These files allow the database to be populated quickly without manual entry.
 
 ### Images Folder
 Contains visual and presentation assets:
-Project poster – High-level visual summary of the capstone project.
-Schema diagram – Visual layout of tables and relationships.
-ERD diagram – Entity–Relationship Diagram showing the full structure.
-Data visualizations – Graphs and charts generated from SQL business insight queries (e.g., sales trends, customer patterns).
+- Project poster – High-level visual summary of the capstone project.
+- Schema diagram – Visual layout of tables and relationships.
+- ERD diagram – Entity–Relationship Diagram showing the full structure.
+- Data visualizations – Graphs and charts generated from SQL business insight queries (e.g., sales trends, customer patterns).
 
 ### Query Results Folder
 Stores output files created by running analytical queries:
-Monthly sales revenue results
-Repeat customer analysis
-Other query output files or screenshots
-These demonstrate how the database answers real business questions.
+- Monthly sales revenue results
+- Repeat customer analysis
+- Other query output files or screenshots
+- These demonstrate how the database answers real business questions.
 
 ## 3. Overview of the Database
 - The database has 7 tables  
